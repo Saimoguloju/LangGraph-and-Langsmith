@@ -1,6 +1,6 @@
 # LangGraph and Langsmith application
 
-#### LangGraph:
+## LangGraph:
 LangGraph is a powerful tool for visualizing and analyzing language models. It provides a visual representation of the model's architecture, allowing you to understand how different components interact and contribute to the model's overall performance.
 
 ***Here are some key features of LangGraph:***
@@ -10,7 +10,7 @@ LangGraph is a powerful tool for visualizing and analyzing language models. It p
 3. ***Supports various model types:*** LangGraph works with a wide range of language models, including transformers, recurrent neural networks, and convolutional neural networks.
 4. ***Integrates with popular frameworks:*** LangGraph can be used with popular deep learning frameworks like TensorFlow and PyTorch.
 
-#### LangSmith:
+## LangSmith:
 LangSmith is a comprehensive platform for building and managing language models. It offers a variety of tools and features to help you develop, train, and deploy your own custom language models.
 
 ***Here are some key features of LangSmith:***
