@@ -5,10 +5,10 @@ LangGraph is a powerful tool for visualizing and analyzing language models. It p
 
 ***Here are some key features of LangGraph:***
 
-***Visualizes model architecture:*** LangGraph creates interactive diagrams that illustrate the flow of data through the model, making it easier to understand complex models.
-***Analyzes model performance:*** You can use LangGraph to identify bottlenecks, areas of high computational cost, and potential areas for optimization.
-***Supports various model types:*** LangGraph works with a wide range of language models, including transformers, recurrent neural networks, and convolutional neural networks.
-***Integrates with popular frameworks:*** LangGraph can be used with popular deep learning frameworks like TensorFlow and PyTorch.
+1. ***Visualizes model architecture:*** LangGraph creates interactive diagrams that illustrate the flow of data through the model, making it easier to understand complex models.
+2. ***Analyzes model performance:*** You can use LangGraph to identify bottlenecks, areas of high computational cost, and potential areas for optimization.
+3. ***Supports various model types:*** LangGraph works with a wide range of language models, including transformers, recurrent neural networks, and convolutional neural networks.
+4. ***Integrates with popular frameworks:*** LangGraph can be used with popular deep learning frameworks like TensorFlow and PyTorch.
 
 
 
